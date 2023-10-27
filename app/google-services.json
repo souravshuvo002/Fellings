@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "130635800467",
+    "firebase_url": "https://feelings-a28d3.firebaseio.com",
+    "project_id": "feelings-a28d3",
+    "storage_bucket": "feelings-a28d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130635800467:android:b141a6f694ff913f139266",
+        "android_client_info": {
+          "package_name": "com.sourav.feelings"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130635800467-n09uoh2s48hshh9md6elc3b43o8jhnl6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sourav.feelings",
+            "certificate_hash": "6007d9baf5e1db6c66fd7c4c6cde962793c4afa2"
+          }
+        },
+        {
+          "client_id": "130635800467-bekvtpcpp65u0eo4jif87ktakttjqhqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6XAJYOCkzMIFQwGO4vVUbG2Nunw2ciZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130635800467-bekvtpcpp65u0eo4jif87ktakttjqhqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
